@@ -1,2 +1,3 @@
-# suzana_ilic_affective_computing
-Linguistic features, datasets and neural architectures for text-based emotion recognition
+### Linguistic features, datasets and neural architectures for text-based emotion recognition
+
+Suzana Ilić, PhD thesis in Applied and Computational Linguistics
